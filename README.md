@@ -4,12 +4,11 @@
   <p>Passionate about Backend Engineering & Web Development</p>
   
   <br/>
-
+  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-wendra-baswara-08a07833b/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baswarastudy@gmail.com)
 </div>
 
----
 
 ### 💻 Tech Stack & Tools
 
@@ -27,11 +26,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Baswara06&theme=dark&hide_border=true" width="55%" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Baswara06&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="60%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Baswara06&theme=dark&hide_border=true&hide=stars,issues,prs&show_icons=true&hide_rank=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Baswara06&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165" alt="Top Languages" />
   
   <br/><br/>
   
