@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, Gua Raihan! 🚀</h1>
-  <p><b>Mahasiswa S1 Informatika (Semester 4) di Telkom University</b></p>
+  <p><b>Mahasiswa S1 Informatika di Telkom University</b></p>
   <p>Passionate about Backend Engineering & Web Development</p>
   
   <br/>
@@ -27,8 +27,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Baswara06&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Baswara06&theme=dark&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Baswara06&theme=dark&hide_border=true" width="55%" />
   
   <br/><br/>
   
