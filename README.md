@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, Gua Raihan! 🚀</h1>
+  <h1>Haloo, Aku Raihan! 🚀</h1>
   <p><b>Mahasiswa S1 Informatika di Telkom University</b></p>
   <p>Passionate about Backend Engineering & Web Development</p>
   
